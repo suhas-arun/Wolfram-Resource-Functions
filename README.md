@@ -1,2 +1,3 @@
 # Wolfram-Resource-Functions
- Functions for the Wolfram Function Repository
+
+Functions for the Wolfram Function Repository
